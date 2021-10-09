@@ -1,24 +1,21 @@
 Shopping List
 
-red apples
-6 bananas
-vanilla yogurt
-2% milk
-wheat bread
+apples
+bananas
+yogurt
+milk
+bread
 cereal
-12 eggs
+eggs
 bacon
 orange juice
 grapes
 lemons
-limes
 lettuce
-brown rice
-chicken soup
+rice
+soup
 ice cream
-1 box of sugar
+sugar
 flour
-butter
-coffee
-tomatoes
-pears
+roti
+
